@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 54px;
+  text-transform: uppercase;
+  font-family: "Righteous", cursive;
+}
