@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviequiz-app/static/css/main.057d6175.css",
+    "main.js": "/moviequiz-app/static/js/main.123355ea.js",
+    "index.html": "/moviequiz-app/index.html",
+    "main.057d6175.css.map": "/moviequiz-app/static/css/main.057d6175.css.map",
+    "main.123355ea.js.map": "/moviequiz-app/static/js/main.123355ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057d6175.css",
+    "static/js/main.123355ea.js"
+  ]
+}
